@@ -1,0 +1,14 @@
+{
+  "name": "hash-function",
+  "version": "1.0.0",
+  "description": "sample-hash",
+  "main": "hash.js",
+  "author": "onifs",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
