@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `yarn text`
+### `yarn test`
 
 Runs the test for this function 
 
