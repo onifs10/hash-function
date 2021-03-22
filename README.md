@@ -8,4 +8,4 @@ Runs the test for this function
 
 ### node use.js
 
-To see the out pust of an encoding
+To see the output of an encoding
